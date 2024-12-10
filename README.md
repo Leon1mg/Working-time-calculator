@@ -18,7 +18,8 @@ The **Work Hours Calculator** is a Python-based GUI application designed to trac
   - Error handling for invalid inputs.
 
 ## How to Use
-1. **Launch**: Run the program by executing the script (`python work_hours_calculator.py`).
+0. **Install Packages**: Run the (`packages.bat`) to install all packages for the programm. 
+1. **Launch**: Run the program by executing the script (`main.py`).
 2. **Input Times**: Select start and end times for each day using the drop-down menus.
 3. **Add Days**: Add additional days as needed using the provided button.
 4. **Calculate Total Time**:  
